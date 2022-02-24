@@ -1,0 +1,17 @@
+//
+// prod.xcconfig
+// Runner
+//
+// Created by Orlando Eduardo Pereira on 29/01/22.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+//#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main_prod.dart
+
+bundle_suffix=-prd
+//
+app_display_name=FlavorProd

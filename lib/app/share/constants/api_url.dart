@@ -1,0 +1,2 @@
+const kUrlProd = '';
+const kUrlDev = '';
